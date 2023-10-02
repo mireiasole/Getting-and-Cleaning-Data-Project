@@ -9,4 +9,4 @@ This repository contains the run_analysis file with the R code, the codebook tha
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 - Codebook.md gives information on the structure, contents, and layout of the code file, so that others can understand each step in the analysis and cleaning of the data and run it without any issues.
-- TidyDataSet.csv and TidyDataSet.txt are the final tidy data set that is requested in Step 5
+- TidyDataSet.csv and TidyDataSet.txt are the different file versions of the final tidy data set that is requested in Step 5
