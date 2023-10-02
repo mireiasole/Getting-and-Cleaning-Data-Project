@@ -64,3 +64,4 @@ tidy_m <- tidy_m %>%
 
 
 write.csv(tidy_m, file="TidyDataSet.csv")
+write.table(tidy_m, file="TidyDataSet.txt")
